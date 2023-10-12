@@ -34,4 +34,4 @@ override.tf.json
 terraform.rc
 
 # Ignore temp files
-._DS_Store
+.DS_Store
